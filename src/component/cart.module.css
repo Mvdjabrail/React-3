@@ -1,0 +1,47 @@
+.image {
+    width: 50%;
+    height: 50%;
+}
+.img1 {
+    width: 30%;
+}
+
+.btn1 {
+    border-radius: 10px;
+    border: 2px solid  ;
+    font-size: 1.5em;
+    width: 60%;
+    padding: 2% 0;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+
+.btn1:hover {
+    color: blue;
+    background-color: white;
+}
+.name {
+    color: grey;
+    font-size: 1.2em;
+    margin-bottom: -0.5%;
+}
+
+.price{
+    font-size: 1.5em;
+    color: black;
+    font-weight: 600;
+}
+
+.div1 {
+    color: grey;
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    text-align: center;
+}
+.name2 {
+    display: flex;
+    align-items: center;
+    text-decoration: line-through;
+}
